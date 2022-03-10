@@ -1,0 +1,3 @@
+- I'm Zahrinas; An undergraduate in Zhejiang University
+- Mainly using C++
+- A history lover and OCG player
