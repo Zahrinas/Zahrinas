@@ -1,3 +1,3 @@
 - I'm Zahrinas; An undergraduate in Zhejiang University
-- Mainly using C++
+- Mainly using C/C++ and Java
 - A history lover and Yu-Gi-Oh OCG player
