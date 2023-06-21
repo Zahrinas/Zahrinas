@@ -1,4 +1,3 @@
-##
 - I'm Zahrinas.
 - An undergraduate in Zhejiang University, majoring Computer Science
 ##
