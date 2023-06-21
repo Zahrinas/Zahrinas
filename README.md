@@ -6,4 +6,4 @@
 
 - Mainly using C/C++, Java, and Matlab
 - <a href="https://github.com/Zahrinas/Zahrinas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-each&langs_count=5&layout=compact&exclude_repo=Zahrinas.github.io" alt="Zahrinas's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrinas&langs_count=5&layout=compact&exclude_repo=Zahrinas.github.io" alt="Zahrinas's GitHub Stats" /></a>
