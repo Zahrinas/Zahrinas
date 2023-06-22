@@ -1,6 +1,6 @@
 - I'm Zahrinas.
 - An undergraduate in Zhejiang University, majoring Computer Science
-- Interested in Infomation Security
+- Interested in Information Security
 ## Other Interests
 - A history buff
 - Yu-Gi-Oh Official Card Game player
