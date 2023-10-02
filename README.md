@@ -1,10 +1,10 @@
 - I'm Zahrinas.
 - An undergraduate in Zhejiang University, majoring in Computer Science
 ## Interests
-- A history buff
+- A history buff, currently most intersted in Anabaptists in Reformation
 - Yu-Gi-Oh Official Card Game player
 ## Skills
-- Once OIer and ICPCer
+- Former OIer and ICPCer
 - Mainly using C/C++, Java, and Matlab
 - <a href="https://github.com/Zahrinas/Zahrinas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrinas&langs_count=5&layout=compact&exclude_repo=Zahrinas" alt="Zahrinas's GitHub Stats" /></a>
