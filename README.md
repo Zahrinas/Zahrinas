@@ -8,4 +8,4 @@
 - Former OIer and ICPCer
 - Mainly using C/C++, Java, and Matlab
 - <a href="https://github.com/Zahrinas/Zahrinas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrinas&langs_count=5&layout=compact" alt="Zahrinas's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrinas&langs_count=6&layout=compact" alt="Zahrinas's GitHub Stats" /></a>
