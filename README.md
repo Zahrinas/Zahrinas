@@ -5,7 +5,7 @@
 - A history buff, currently intersted in Anabaptists in Reformation
 - Yu-Gi-Oh Official Card Game player
 ## Skills
-- Former OIer and ICPCer
+- Former OIer
 - Mainly using C/C++, Java, and Matlab
 - <a href="https://github.com/Zahrinas/Zahrinas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrinas&langs_count=6&layout=compact" alt="Zahrinas's GitHub Stats" /></a>
