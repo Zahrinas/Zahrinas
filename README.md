@@ -2,7 +2,6 @@
 - An undergraduate in Zhejiang University, majoring in Computer Science
 - To be enrolled as Ph.D. student within the same college
 ## Interests
-- A history buff, currently intersted in Anabaptists in Reformation
 - Yu-Gi-Oh Official Card Game player
 ## Skills
 - Former OIer
