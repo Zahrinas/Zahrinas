@@ -1,6 +1,5 @@
 - I'm Zahrinas.
-- An undergraduate in Zhejiang University, majoring in Computer Science
-- To be enrolled as Ph.D. student within the same college
+- Ph.D. student in School of Cyper Science and Technology, Zhejiang University
 ## Interests
 - Yu-Gi-Oh Official Card Game player
 ## Skills
